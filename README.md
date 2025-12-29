@@ -3,6 +3,6 @@
 </p>
 
 
-<p align="center">$${\color{#F6E1A3}let'sㅤㅤㅤ giveㅤㅤㅤ itㅤㅤㅤ everythingㅤㅤㅤ we'veㅤㅤㅤ gotㅤㅤㅤ today!}$$
-<p align="center">$${\color{#E3AB79}hehe,ㅤㅤㅤ iㅤㅤㅤ wonderㅤㅤㅤ whatㅤㅤㅤ everyoneㅤㅤㅤ wantsㅤㅤㅤ toㅤㅤㅤ doㅤㅤㅤ today!}$$</p>
-<p align="center">$${\color{#D87260}eachㅤㅤㅤ dayㅤㅤㅤ comesㅤㅤㅤ once!ㅤㅤㅤ iㅤㅤㅤ shouldㅤㅤㅤ seizeㅤㅤㅤ theㅤㅤㅤ day!}$$</p>
+<p align="center">$${\color{#F6E1A3}let'sㅤㅤgiveㅤㅤitㅤㅤeverythingㅤㅤwe'veㅤㅤgotㅤㅤtoday!}$$
+<p align="center">$${\color{#E3AB79}hehe,ㅤㅤiㅤㅤwonderㅤㅤwhatㅤㅤㅤ everyoneㅤㅤwantsㅤㅤtoㅤㅤdoㅤㅤtoday!}$$</p>
+<p align="center">$${\color{#D87260}eachㅤㅤdayㅤㅤcomesㅤㅤonce!ㅤㅤiㅤㅤshouldㅤㅤseizeㅤㅤtheㅤㅤday!}$$</p>
