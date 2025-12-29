@@ -8,7 +8,11 @@
 <p align="center">$${\color{#DB7C5D}eachㅤdayㅤcomesㅤonce!ㅤiㅤshouldㅤseizeㅤtheㅤday!}$$</p>
 
 
-<img width="736" height="565" alt="1000047587" src="https://github.com/user-attachments/assets/6dbd240d-a608-4440-892c-9585dd77de69" />
+
+
+
+<img src="https://github.com/user-attachments/assets/6dbd240d-a608-4440-892c-9585dd77de69" alt="" width="370" align="left"> 
+
 
 
 
