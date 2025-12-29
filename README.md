@@ -9,8 +9,11 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/gbobl0.png" width=500 />
-</p>(https://kyuumeno.atabook.org)
+  <a href="https://kyuumeno.atabook.org" target="_blank">
+    <img src="https://files.catbox.moe/gbobl0.png" width="500" />
+  </a>
+</p>
+
 
 
 
