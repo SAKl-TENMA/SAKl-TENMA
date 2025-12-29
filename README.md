@@ -1,5 +1,3 @@
-<img width="1280" height="204" alt="1000047597" src="https://github.com/user-attachments/assets/9b722acc-d755-4d45-8d94-38f8c5acaef8" />
-
 
 
 <p align="center">
@@ -19,7 +17,4 @@
 </p>
 
 
-
-
-<img width="1280" height="204" alt="1000047586" src="https://github.com/user-attachments/assets/9b701b31-72b8-4651-8979-4644ae7fb404" />
 
