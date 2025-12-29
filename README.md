@@ -8,8 +8,9 @@
 <p align="center">$${\color{#DB7C5D}eachㅤdayㅤcomesㅤonce!ㅤiㅤshouldㅤseizeㅤtheㅤday!}$$</p>
 
 
-<img src="https://files.catbox.moe/gbobl0.png" alt="Preview" width="600" align="center">
-
+<p align="center">
+  <img src="https://files.catbox.moe/gbobl0.png" width=500 />
+</p>(https://kyuumeno.atabook.org)
 
 
 
