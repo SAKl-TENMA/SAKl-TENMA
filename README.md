@@ -8,7 +8,7 @@
 <p align="center">$${\color{#DB7C5D}eachㅤdayㅤcomesㅤonce!ㅤiㅤshouldㅤseizeㅤtheㅤday!}$$</p>
 
 
-<img src="https://github.com/user-attachments/assets/d3f7b949-bc58-4cb6-b38f-2e674a7804ad" alt="Preview" width="600" align="center">
+<img src="https://files.catbox.moe/gbobl0.png" alt="Preview" width="600" align="center">
 
 
 
