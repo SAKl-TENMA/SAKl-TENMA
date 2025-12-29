@@ -1,3 +1,7 @@
+<img width="1280" height="204" alt="1000047597" src="https://github.com/user-attachments/assets/9b722acc-d755-4d45-8d94-38f8c5acaef8" />
+
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e6bfa41a-d8b2-4fbd-b3d0-0c09d9a903ed" />
 </p>
@@ -9,7 +13,7 @@
 
 
 <p align="center">
-  <a href="https://kyuumeno.atabook.org" target="_blank">
+  <a href="https://rentry.co/saki-links" target="_blank">
     <img src="https://files.catbox.moe/gbobl0.png" width="500" />
   </a>
 </p>
