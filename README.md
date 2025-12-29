@@ -3,4 +3,6 @@
 </p>
 
 
-### <p align="center">Your centered text here</p>
+<p align="center">$${\color{#F6E1A3}let'sㅤㅤㅤ giveㅤㅤㅤ itㅤㅤㅤ everythingㅤㅤㅤ we'veㅤㅤㅤ gotㅤㅤㅤ today!}$$
+<p align="center">$${\color{#DCA97A}hehe,ㅤㅤㅤ iㅤㅤㅤ wonderㅤㅤㅤ whatㅤㅤㅤ everyoneㅤㅤㅤ wantsㅤㅤㅤ toㅤㅤㅤ doㅤㅤㅤ today!}$$</p>
+<p align="center">$${\color{#D1604F}eachㅤㅤㅤ dayㅤㅤㅤ comesㅤㅤㅤ once!ㅤㅤㅤ iㅤㅤㅤ shouldㅤㅤㅤ seizeㅤㅤㅤ theㅤㅤㅤ day!}$$</p>
